@@ -1,4 +1,4 @@
-* webStorage(sessionStorage & localStorage)
+* webStorage(sessionStorage & localStorage) + cookie
 	* getItem()
 	* setItem()
 	* cookie
