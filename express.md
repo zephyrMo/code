@@ -14,4 +14,4 @@
 2. post   /goods     --> 添加商品
 3. get    /goods/:id --> 获取某个商品信息
 4. put    /goods/:id --> 修改某个商品信息
-5. 
+5. delete /goods/:id --> 删除某个商品信息
