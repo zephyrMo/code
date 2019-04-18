@@ -10,5 +10,8 @@
 ### 中间件 `function(req,res,next){}`
 1. 使用中间: `app.use([path],..ext)`
 ### restful api
-1. get    /goods -->获取所有商品信息
-2. post   /goods -->添加商品
+1. get    /goods     --> 获取所有商品信息
+2. post   /goods     --> 添加商品
+3. get    /goods/:id --> 获取某个商品信息
+4. put    /goods/:id --> 修改某个商品信息
+5. 
