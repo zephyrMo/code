@@ -5,5 +5,7 @@
 	1. 路径不写,如何请求都能进入
 	2. 路径有,根据路径进入
 4. 路由(数据接口)
+	1. `app.use(express.static())`
+	2. `app.use(routers)`
 ### 中间件 `function(req,res,next){}`
 1. 使用中间: `app.use([path],..ext)`
